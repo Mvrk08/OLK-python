@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python_olk.iml" filepath="$PROJECT_DIR$/.idea/python_olk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/olk-python.iml" filepath="$PROJECT_DIR$/.idea/olk-python.iml" />
     </modules>
   </component>
 </project>
